@@ -1,15 +1,15 @@
 # Russian translations for com.github.lainsce.beemy package.
 # Copyright (C) 2019 THE com.github.lainsce.beemy'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.lainsce.beemy package.
-# Automatically generated, 2019.
+# Sergei Kharitonov, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.github.lainsce.beemy\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-31 19:36+0200\n"
-"PO-Revision-Date: 2019-03-31 17:26+0200\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2024-12-10 19:36+0200\n"
+"PO-Revision-Date: 2024-12-10 17:26+0200\n"
+"Last-Translator: Sergei Kharitonov\n"
 "Language-Team: none\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -18,77 +18,78 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+
 #: src/MainWindow.vala:141
 msgid "Your Body Mass Index is:"
-msgstr ""
+msgstr "Ваш Индекс Массы Тела (ИМТ) равен:"
 
 #: src/MainWindow.vala:148
 msgid "Underweight"
-msgstr ""
+msgstr "Недостаточная масса тела"
 
 #: src/MainWindow.vala:150
 msgid "Healthy"
-msgstr ""
+msgstr "Здоровый"
 
 #: src/MainWindow.vala:152
 msgid "Overweight"
-msgstr ""
+msgstr "Избыточная масса тела"
 
 #: src/MainWindow.vala:154
 msgid "Obese"
-msgstr ""
+msgstr "Ожирение"
 
 #: src/MainWindow.vala:157
 msgid "You are considered"
-msgstr ""
+msgstr "Вы считаетесь"
 
 #: src/MainWindow.vala:157
 msgid "in the official Body Mass Index chart."
-msgstr ""
+msgstr "в официальной таблице Индекса Массы Тела."
 
 #: src/MainWindow.vala:186
 msgid "Learn about Body Mass Index"
-msgstr ""
+msgstr "Узнайте о Индексе Массы Тела"
 
 #: src/MainWindow.vala:188
 msgid "Calculate"
-msgstr ""
+msgstr "Рассчитать"
 
 #: src/MainWindow.vala:194
 msgid "https://en.wikipedia.org/wiki/Body_mass_index"
-msgstr ""
+msgstr "https://ru.wikipedia.org/wiki/Индекс_массы_тела"
 
 #: src/MainWindow.vala:205
 msgid "Beemy"
-msgstr ""
+msgstr "Бими"
 
 #: src/MainWindow.vala:211
 msgid "Calculate your Body Mass Index:"
-msgstr ""
+msgstr "Рассчитайте свой Индекс Массы Тела:"
 
 #: src/MainWindow.vala:224
 msgid "Enter weight…"
-msgstr ""
+msgstr "Введите вес…"
 
 #: src/MainWindow.vala:251
 msgid "Enter height…"
-msgstr ""
+msgstr "Введите рост…"
 
 #: src/MainWindow.vala:301
 msgid "You can choose your preferred weight unit."
-msgstr ""
+msgstr "Вы можете выбрать предпочитаемую единицу веса."
 
 #: src/MainWindow.vala:302
 msgid "You can choose your preferred height unit."
-msgstr ""
+msgstr "Вы можете выбрать предпочитаемую единицу роста."
 
 #: src/MainWindow.vala:322
 msgid "Calculate!"
-msgstr ""
+msgstr "Рассчитать!"
 
 #: src/MainWindow.vala:348
 msgid "Your Results:"
-msgstr ""
+msgstr "Ваши результаты:"
 
 #: src/MainWindow.vala:380
 #, c-format
@@ -96,3 +97,5 @@ msgid ""
 "The Body Mass Index does not tell % of muscular mass or fat mass, all it "
 "does is a fast checkup on your health."
 msgstr ""
+"Индекс Массы Тела не указывает % мышечной или жировой массы, он просто "
+"предоставляет быстрый обзор вашего здоровья."
